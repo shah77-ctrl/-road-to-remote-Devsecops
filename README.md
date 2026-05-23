@@ -6,4 +6,4 @@
 ## Day 1 Checklist
 - [x] Setup repo
 - [ ] Tanya ayah WD pakai tool apa
-- [ ] Siap Python Hello World
+- [x] Siap Python Hello World
